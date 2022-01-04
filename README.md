@@ -1,1 +1,2 @@
-![alt text](screenshots/diagrams.png "Wireframe and component diagram")
+# Wireframe and Component Diagrams
+![image](Screenshots/Diagrams.png "Wireframe and component diagram")
